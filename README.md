@@ -1,2 +1,3 @@
 # compute-the-likelihood-of-observation-sequence
-Faculty 
+Faculty task
+that compute-the-likelihood-of-observation-sequence
