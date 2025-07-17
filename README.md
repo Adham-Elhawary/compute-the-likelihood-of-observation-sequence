@@ -30,15 +30,6 @@ project/
 ├── requirements.txt # Dependencies
 └── README.md # This file
 
----
-
-## ⚙️ Installation
-
-### ✅ Dependencies
-Install Python libraries:
-
-```bash
-pip install librosa numpy scipy
 
 ---
 
@@ -68,4 +59,13 @@ Contributions, issues, and feature requests are welcome!
 2. Create your feature branch:  
    ```bash
    git checkout -b feature/YourFeature
+---
+
+## ⚙️ Installation
+
+### ✅ Dependencies
+Install Python libraries:
+
+   ```bash
+      pip install librosa numpy scipy
 
